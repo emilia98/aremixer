@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Algos\Square Root\Test_SquareRoot_WholeNumber\bin\Debug\Test_SquareRoot_WholeNumber.exe
+C:\Users\User\Desktop\Algos\Square Root\Test_SquareRoot_WholeNumber\bin\Debug\Test_SquareRoot_WholeNumber.pdb
+C:\Users\User\Desktop\Algos\Square Root\Test_SquareRoot_WholeNumber\obj\Debug\Test_SquareRoot_WholeNumber.exe
+C:\Users\User\Desktop\Algos\Square Root\Test_SquareRoot_WholeNumber\obj\Debug\Test_SquareRoot_WholeNumber.pdb
+C:\Users\User\Desktop\Algos\Square Root\Test_SquareRoot_WholeNumber\obj\Debug\Test_SquareRoot_WholeNumber.csprojResolveAssemblyReference.cache

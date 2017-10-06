@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Algos\Square Root\Method_2_Examination\bin\Debug\Method_2_Examination.exe
+C:\Users\User\Desktop\Algos\Square Root\Method_2_Examination\bin\Debug\Method_2_Examination.pdb
+C:\Users\User\Desktop\Algos\Square Root\Method_2_Examination\obj\Debug\Method_2_Examination.exe
+C:\Users\User\Desktop\Algos\Square Root\Method_2_Examination\obj\Debug\Method_2_Examination.pdb
+C:\Users\User\Desktop\Algos\Square Root\Method_2_Examination\obj\Debug\Method_2_Examination.csprojResolveAssemblyReference.cache
